@@ -4,7 +4,7 @@ JavaScript Exercise with concatenation, random number, if and else functions.
 
 ### Screenshot
 
-![](./images/printscreen.jpg)
+![](./images/printscreen.JPG)
 
 ### Links
 
